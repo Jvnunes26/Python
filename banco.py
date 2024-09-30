@@ -166,5 +166,6 @@ while True:
     elif codigo == 0:
         print('Menu fechado!')
         break
+        
     else:
         print('Opção inválida!')
